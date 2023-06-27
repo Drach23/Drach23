@@ -1,5 +1,5 @@
 <p>
-    <img align="center" height="900px" width="auto" style="margin-right:900px; margin-left:300px" src="./img/banner.jpg" alt="myBanner">
+    <img align="center" height="300px" width="auto" style="margin-right:900px; margin-left:300px" src="./img/banner.jpg" alt="myBanner">
     <hr>
     <h2 align="center">Hi, I'm Diego Aquino, I'm a computer engineering student in Mexico. </h2>
     <br>
